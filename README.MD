@@ -1,0 +1,1 @@
+Considero que as aulas de git estao sendo esclarecedoras, para o treinamento
