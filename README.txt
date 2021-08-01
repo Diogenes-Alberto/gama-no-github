@@ -1,1 +1,1 @@
-Testando como trabalhar com o git
+Testando como trabalhar com o git, pois e uma ferramente importante para versionamento de codigo.
